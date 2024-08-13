@@ -23,4 +23,6 @@ vendor/
 .vscode/
 *.iml
 
+.env
+
 # End of Go project
